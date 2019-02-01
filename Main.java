@@ -16,7 +16,7 @@ public class Main {
         String line;
         while ((line = in.readLine()) != null) {
             //System.out.println(line);
-            String[] arrOfStr = line.split("~",4);
+            String[] arrOfStr = line.split(":",4);
             String a = arrOfStr[0];
             String b = arrOfStr[1];
             String c = arrOfStr[2];
