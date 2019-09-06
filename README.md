@@ -6,7 +6,7 @@ Step 1: [Asset Identification](#4.1-assest-identification)
 Step 2: [Asset Roles and Groups](#asset-roles-and-groups)  
 Step 3: [Asset Hierarchy](#4.3-asset-hierarchy)  
 Step 4: [Business Architecture](#4.4-business-architecture)  
-Step 5: [Environments](#45-environments)  
+Step 5: [Environments](#4-5-environments)  
 
 #### 4.1 Asset Identification 
 Collect and verify all attributes used to identify and describe the Asset.  
@@ -116,7 +116,7 @@ Identify all the 3rd Party Technology Products that are used to develop, deploy,
 Validate and Update the list of L3 Business Capabilities that this Business Application supports, enables or automates.  
 ##### 4.4.2 Associated Channel(s)
 Identify all the Sales/Support Channels that are supported by the Business Application.
-#### 45 Environments 
+#### 4.5 Environments 
 ##### 4.5.1 Business Application Enviroment(s)
 Identify all Environment(s) where this Bus App is deployed.  Include Environment Names and associated Type.
 Environment Types:
