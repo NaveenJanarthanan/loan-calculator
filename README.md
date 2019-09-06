@@ -136,7 +136,7 @@ Environment Types:
    
  
    
-### 5 Audit Steps 
+#### 5 Audit Steps 
 This EAL Audit is being performed to help complete and cleanse the EAL prior to migration to the new CSAM taxonomy.  The Audit is comprised of 5 steps.  At each step, Application Owners/SMEs are asked to provide, validate or update multiple attributes and/or relationships.  Steps are:  
 
 
