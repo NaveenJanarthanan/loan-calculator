@@ -6,7 +6,7 @@ Step 1: [Asset Identification](#4.1-assest-identification)
 Step 2: [Asset Roles and Groups](#asset-roles-and-groups)  
 Step 3: [Asset Hierarchy](#4.3-asset-hierarchy)  
 Step 4: [Business Architecture](#4.4-business-architecture)  
-Step 5: [Environments](#4.5-environments)  
+Step 5: [Environments](#5-audit-steps)  
 
 #### 4.1 Asset Identification 
 Collect and verify all attributes used to identify and describe the Asset.  
@@ -132,7 +132,12 @@ Environment Types:
 - Testing (Other)
 - Training
 - UAT
-- Replication HUB
+- Replication HUB  
+   
+ 
+   
+### 5 Audit Steps 
+This EAL Audit is being performed to help complete and cleanse the EAL prior to migration to the new CSAM taxonomy.  The Audit is comprised of 5 steps.  At each step, Application Owners/SMEs are asked to provide, validate or update multiple attributes and/or relationships.  Steps are:  
 
 
 
