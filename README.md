@@ -2,10 +2,10 @@
 ### 4 EAL Audit Steps 
 This EAL Audit is being performed to help complete and cleanse the EAL prior to migration to the new CSAM taxonomy.  The Audit is comprised of 5 steps.  At each step, Application Owners/SMEs are asked to provide, validate or update multiple attributes and/or relationships.  Steps are:  
 
-Step 1: [Asset Identification](#4.1-assest-identification)  
-Step 2: [Asset Roles and Groups](#asset-roles-and-groups)  
-Step 3: [Asset Hierarchy](#4.3-asset-hierarchy)  
-Step 4: [Business Architecture](#4.4-business-architecture)  
+Step 1: [Asset Identification](#41-assest-identification)  
+Step 2: [Asset Roles and Groups](#42-asset-roles-and-groups)  
+Step 3: [Asset Hierarchy](#43-asset-hierarchy)  
+Step 4: [Business Architecture](#44-business-architecture)  
 Step 5: [Environments](#45-environments)  
 
 #### 4.1 Asset Identification 
