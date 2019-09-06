@@ -6,7 +6,7 @@ Step 1: [Asset Identification](#4.1-assest-identification)
 Step 2: [Asset Roles and Groups](#asset-roles-and-groups)  
 Step 3: [Asset Hierarchy](#4.3-asset-hierarchy)  
 Step 4: [Business Architecture](#4.4-business-architecture)  
-Step 5: [Environments](#5-environments)  
+Step 5: [Environments](#45-environments)  
 
 #### 4.1 Asset Identification 
 Collect and verify all attributes used to identify and describe the Asset.  
